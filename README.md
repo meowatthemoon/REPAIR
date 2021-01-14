@@ -1,6 +1,6 @@
 # Simple Implementation of REPAIR
 
-- Implementation of Interactive Reinforcement Learning with Inaccurate Feedback [paper](https://sim.ece.utexas.edu/static/papers/REPaIR-ICRA.pdf)
+- Implementation of Interactive Reinforcement Learning with Inaccurate Feedback [paper](https://sim.ece.utexas.edu/static/papers/REPaIR-ICRA.pdf) by Taylor A. Kessler Faulkner, Elaine Schaertl Short and Andrea L. Thomaz.
 
 - Applied to a custom Breakout game environment
 
